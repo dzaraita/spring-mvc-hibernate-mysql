@@ -20,6 +20,7 @@
     <table border="1">
         <th>Name</th>
         <th>Location</th>
+        <th>Action</th>
 
         <c:forEach var="department" items="${listDepartment}">
             <tr>
