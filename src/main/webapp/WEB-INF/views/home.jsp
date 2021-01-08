@@ -20,7 +20,7 @@
         List Employees <a href="list">here</a>
     </h4>
     <h4>
-        List Department <a href="ListDept">here</a>
+        List Departments <a href="ListDept">here</a>
     </h4>
 </div>
 
